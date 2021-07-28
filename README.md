@@ -1,6 +1,6 @@
 ### Hi i am anand.👋
 
-## i am Softwaer Engineer , python developer.
+## i am Frontend developer.
 **anand0698/anand0698** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on python & DBMS.
